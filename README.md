@@ -1,1 +1,1 @@
-# Links to interesting GIT info
+# Links to interesting GIT / GitHub info
